@@ -15,6 +15,6 @@ clean, modern, easy and fast to use for everyday guitar players.
 
 ## Technologies
 
-- TBD
+- To Be Determined
 
 
